@@ -2,7 +2,7 @@
 
 > A web based tool to generate gantt chart and calculate TAT (turnaround time) and WAT (waiting time) based on various scheduling algorithms.
 
-[![process-scheduling-solver](https://user-images.githubusercontent.com/19908657/120210473-6874ca00-c262-11eb-96a2-5c4742fea816.png)](https://boonsuen.com/process-scheduling-solver)
+[![process-scheduling-solver](https://user-images.githubusercontent.com/19908657/120210473-6874ca00-c262-11eb-96a2-5c4742fea816.png)](https://process-scheduling-algorithms.vercel.app/)
 
 ## Supported algorithms
 
