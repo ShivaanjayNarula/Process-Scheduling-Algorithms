@@ -1,6 +1,6 @@
 # Process Scheduling Solver
 
-> A web based tool to generate gantt chart and calculate TAT (turnaround time) and WAT (waiting time) based on various scheduling algorithms.
+A web based tool to generate gantt chart and calculate TAT (turnaround time) and WAT (waiting time) based on various scheduling algorithms.
 
 ## Supported algorithms
 
@@ -22,6 +22,3 @@
 - Next.js
 - TypeScript
 - styled-components
-
-## Upcoming
-- [ ] Support higher number for higher priority
